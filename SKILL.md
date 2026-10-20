@@ -1,23 +1,23 @@
 ---
-name: sem-cara-de-ia
-description: 'Tira a cara de IA de uma interface pronta. Use quando uma interface pronta (site, landing, app, componente) tiver cara de feita por IA, de template ou de genérica e precisar sair com cara de profissional sem ser refeita do zero. Gatilhos: "tira a cara de IA", "sem cara de IA", "deixa profissional", "está genérico", "parece template", "revisa a estética". Não é redesign: preserva estrutura, texto e tudo que já está bom, e troca só o que cai numa das leis.'
+name: acabamento
+description: 'Acabamento de UI: tira a cara de IA de uma interface pronta. Use quando uma interface pronta (site, landing, app, componente) tiver cara de feita por IA, de template ou de genérica e precisar sair com cara de profissional sem ser refeita do zero. Gatilhos: "acabamento", "tira a cara de IA", "deixa profissional", "está genérico", "parece template", "revisa a estética". Não é redesign: preserva estrutura, texto e tudo que já está bom, e troca só o que cai numa das leis.'
 license: MIT
 metadata:
   author: Kore ID
   version: 1.0.0
 ---
 
-# Sem cara de IA
+# Acabamento
 
-A IA entrega rápido e entrega com vícios. Os vícios são sempre os mesmos, dá pra listar, dá pra achar no código e dá pra trocar um por um. Este passe recebe uma UI pronta e devolve a mesma UI sem eles. Ele nasceu de 973 correções em 150 conversas de site e código: cada lei abaixo é um erro que se repetiu até virar regra.
+A IA entrega rápido e entrega com vícios. Os vícios são sempre os mesmos, dá pra listar, dá pra achar no código e dá pra trocar um por um. Esta skill recebe uma UI pronta e devolve a mesma UI sem eles. Ele nasceu de 973 correções em 150 conversas de site e código: cada lei abaixo é um erro que se repetiu até virar regra.
 
-O passe tem quatro movimentos: ler, decidir, executar, provar. E uma lei acima de todas.
+O acabamento tem quatro movimentos: ler, decidir, executar, provar. E uma lei acima de todas.
 
 ## Lei zero: não piora
 
-A correção mais frequente de quem trabalha com IA não é "ficou feio". É "a versão nova ficou pior que a anterior". O passe existe pra tirar vício, não pra trocar gosto.
+A correção mais frequente de quem trabalha com IA não é "ficou feio". É "a versão nova ficou pior que a anterior". O acabamento existe pra tirar vício, não pra trocar gosto.
 
-- Antes de tocar em qualquer coisa, escreva o inventário do que fica: seções, mecanismos e detalhes que já funcionam. Esse inventário é intocável durante o passe.
+- Antes de tocar em qualquer coisa, escreva o inventário do que fica: seções, mecanismos e detalhes que já funcionam. Esse inventário é intocável durante o trabalho.
 - Mude só o que caiu numa lei da seção 1. O que incomoda mas não caiu em lei vira proposta separada, nunca alteração.
 - Texto é do dono. Copy existente fica palavra por palavra. Mudança de texto vai como proposta, com o antes e o depois lado a lado.
 - Troca de fonte e qualquer assinatura visual nova também vão como proposta. Tipografia passa pelo olho do dono antes de fechar.
@@ -99,7 +99,7 @@ Nada sai sem passar aqui, em desktop 1440 e celular 390:
 ## Saída
 
 ```
-SEM CARA DE IA · <nome do projeto>
+ACABAMENTO · <nome do projeto>
 
 Ficou como estava
 <inventário da lei zero, em uma linha por item>

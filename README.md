@@ -1,4 +1,4 @@
-# Sem cara de IA
+# Acabamento
 
 Seis skills que tiram a cara de amador de qualquer projeto feito com IA. Cinco existem, são de quem entende e já foram instaladas centenas de milhares de vezes. A sexta eu escrevi, e mora aqui.
 
@@ -13,7 +13,7 @@ npx skills add pbakaus/impeccable --skill clarify
 npx skills add emilkowalski/skills --skill improve-animations
 npx skills add anthropics/skills --skill frontend-design
 npx skills add emilkowalski/skills --skill prototype
-npx skills add zTelerados/sem-cara-de-ia
+npx skills add zTelerados/acabamento
 ```
 
 Cada comando pergunta em qual agente instalar. Só isso.
@@ -71,7 +71,7 @@ Mais de 150 mil instalações.
 npx skills add emilkowalski/skills --skill prototype
 ```
 
-### 6. sem-cara-de-ia, a bônus
+### 6. acabamento, a bônus
 
 Essa não existia, então eu escrevi. Ela recebe uma interface pronta e devolve a mesma interface sem os vícios de cara de IA: 19 vícios catalogados, com a pista de cada um no código e o que entra no lugar. Botão redondinho vira canto reto. Gradiente roxo vira uma cor tirada do negócio. Placar de vaidade vira prova com fonte. Texto de robô vira proposta pra você aprovar.
 
@@ -80,13 +80,13 @@ A lei acima de todas: não piora. Ela lista o que já está bom antes de tocar e
 As leis saíram de 973 correções em 150 conversas de site e código. Cada linha é um erro que se repetiu até virar regra.
 
 ```bash
-npx skills add zTelerados/sem-cara-de-ia
+npx skills add zTelerados/acabamento
 ```
 
-Depois, no agente: "tira a cara de IA desse projeto".
+Depois, no agente: "faz o acabamento desse projeto" ou "tira a cara de IA disso".
 
 ## Créditos
 
 web-design-guidelines (Vercel Labs, MIT), impeccable e clarify (Paul Bakaus, MIT), improve-animations e prototype (Emil Kowalski, MIT), frontend-design (Anthropic). Os números de instalação são do skills.sh em 19/10/2026.
 
-sem-cara-de-ia é da Kore ID, Rio de Janeiro. MIT.
+acabamento é da Kore ID, Rio de Janeiro. MIT.
